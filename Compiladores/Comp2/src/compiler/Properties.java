@@ -22,8 +22,8 @@ public interface Properties {
 	//public static final String sourceCodeLocation = "exemplos/exemplo10.pas";
 	
 	
-	public static final String sourceCodeLocation = "exemplos/exemplo11.pas";
-	//public static final String sourceCodeLocation = "exemplos/exemplo12.pas";
+	//public static final String sourceCodeLocation = "exemplos/exemplo11.pas";
+	public static final String sourceCodeLocation = "exemplos/exemplo12.pas";
 
 	
 	//public static final String sourceCodeLocation = "exemplos/exemplo13.pas"; //ok
